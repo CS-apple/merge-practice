@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Our favorite lunch is: sushi
+=======
+Our favorite lunch is: tacos
+>>>>>>> b63f3f9b48388b0dd33cc897da20e151421fd609
