@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-Our favorite lunch is: ramen
-=======
-<<<<<<< HEAD
-Our favorite lunch is: sushi
-=======
-Our favorite lunch is: tacos
->>>>>>> b63f3f9b48388b0dd33cc897da20e151421fd609
->>>>>>> e2d9ea6e85de4a860aebc0da0b2bb2fc9ad2fe85
+  Our favorite lunch is: tacos, sushi, and ramen
